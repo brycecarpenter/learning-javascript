@@ -31,7 +31,7 @@
 	assigned a value of any kind.
 */
 
-// your code goes here
+let x;
 
 /* TASK #2
     Create a variable named age and set it's value to your age in years. Once 
